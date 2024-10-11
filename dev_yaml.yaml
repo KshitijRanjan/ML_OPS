@@ -1,0 +1,21 @@
+# This is the DEV YAML file
+my-name: "Kshitij Ranjan"
+my-course: "Bootcamp for ML OPS"
+version: 1.0
+category:
+ - AWS
+ - DEVOPS
+ - AWS Certification
+developer_details:
+ - name: "Kshitij"
+   email: "kshitij.ranjan@adidas.com"
+   role: "Author"
+ - name: "Random"
+   email: "Random@gmail.com"
+   role: "Co Author"
+short_description: |
+ This is AWS 
+ For AWS Professional
+ I like doing it 
+ 
+
